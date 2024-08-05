@@ -1,20 +1,20 @@
-<h1 align="left">Hello 🌟 How's it going</h1>
+<h1 align="left">Olá 🌟 Como vai?</h1>
 
 ###
 
-<h3 align="left">My name is Carlos Tevez 👋, and I'm a developer 💻, from São Paulo, Brazil 🇧🇷.</h3>
+<h3 align="left">Sou Carlos Tevez 👋, desenvolvedor de software 💻 localizado em São Paulo, Brasil 🇧🇷.</h3>
 
 ###
 
-<h5 align="left">Hello! I’m Carlos, a software developer with 17 years of life experience and an unwavering passion for creating innovative and efficient solutions. I have experience with various programming languages, including Python, JavaScript, and Java. Currently, I’m focused on web development and front-end technologies like React and Angular.<br><br>When I’m not coding, I enjoy contributing to open-source projects, learning new skills, and sharing knowledge with the community. Feel free to explore my repositories and reach out if you have any questions or want to collaborate on an interesting project!</h5>
+<h4 align="left">Um desenvolvedor de software com uma paixão constante por criar soluções inovadoras e eficientes. Tenho experiência em várias linguagens de programação e atualmente estou focado em desenvolvimento web e tecnologias front-end.<br><br>Quando não estou codificando, gosto de contribuir para projetos de código aberto, aprender novas habilidades e compartilhar conhecimento com a comunidade. Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou quiser colaborar em um projeto interessante!</h4>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022  <br>📚 I’m currently learning Angular, API integration, and XAML  <br>🎯 Goals: Developing my skills across all layers of software development, from front-end to back-end.  <br>🎲 Fun fact: Did you know that Angular was created by Google and is one of the most popular libraries for web application development?</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo Angular, integração de APIs e XAML<br>🎯 Objetivos: Desenvolver minhas habilidades em todas as camadas do desenvolvimento de software, do front-end ao back-end.<br>🎲 Curiosidade: Você sabia que o Angular foi criado pelo Google e é uma das bibliotecas mais populares para o desenvolvimento de aplicações web?</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo com</h2>
 
 ###
 
