@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">Um desenvolvedor de software com uma paixão constante por criar soluções inovadoras e eficientes. Tenho experiência em várias linguagens de programação e atualmente estou focado em desenvolvimento web e tecnologias front-end.<br><br>Quando não estou codificando, gosto de contribuir para projetos de código aberto, aprender novas habilidades e compartilhar conhecimento com a comunidade. Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou quiser colaborar em um projeto interessante!</h4>
+<h4 align="left">Um desenvolvedor de software com uma paixão constante por criar soluções inovadoras e eficientes. Tenho experiência em várias linguagens de programação e atualmente estou focado em desenvolvimento web e tecnologias front-end.</h4>
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo Angular, integração de APIs e XAML<br>🎯 Objetivos: Desenvolver minhas habilidades em todas as camadas do desenvolvimento de software, do front-end ao back-end.<br>🎲 Curiosidade: Você sabia que o Angular foi criado pelo Google e é uma das bibliotecas mais populares para o desenvolvimento de aplicações web?</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo Angular, integração de APIs e XAML<br>
 
 ###
 
