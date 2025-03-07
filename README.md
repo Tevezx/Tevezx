@@ -1,4 +1,4 @@
-<h1 align="left">Olá 🌟 Como vai?</h1>
+<h1 align="left">Olá Como vai?</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">Um desenvolvedor de software com uma paixão constante por criar soluções inovadoras e eficientes. Tenho experiência em várias linguagens de programação e atualmente estou focado em desenvolvimento web e tecnologias front-end.</h4>
+<h4 align="left">Tenho experiência em várias linguagens de programação e atualmente estou focado em desenvolvimento web e tecnologias front-end.</h4>
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo Angular, integração de APIs e XAML<br>
+<p align="left">Criando bugs desde 2022</p>
 
 ###
 
