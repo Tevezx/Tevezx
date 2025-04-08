@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá me chamo Carlos Tevez, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Horácio Augusto da Silveira, com o curso técnico em desenvolvimento de sistemas. Atualmente estou cursando Análise e Desenvolvimento de Sitemas na UNICID. Sou apaixonado por tecnologia e sempre busco solucionar problemas que encontro através dela.
+Olá me chamo Carlos Tevez, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Horácio Augusto da Silveira, com o curso técnico em desenvolvimento de sistemas. Atualmente estou cursando Análise e Desenvolvimento de Sitemas na UNICID. Sou apaixonado por tecnologia e sempre buscando solucionar problemas que encontro através dela.
 
 <br>
 
