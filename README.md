@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=.2rem&pause=1000&color=5407F7&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Carlos+Tevez" alt="mensagem de boas vindas">
 </p>
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
 Olá me chamo Carlos Tevez, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Horácio Augusto da Silveira, com o curso técnico em desenvolvimento de sistemas. Atualmente estou cursando Análise e Desenvolvimento de Sitemas na São Paulo Tech School. Sou apaixonado por tecnologia e sempre buscando solucionar problemas que encontro através dela.
 
