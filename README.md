@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá me chamo Carlos Tevez, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Horácio Augusto da Silveira, com o curso técnico em desenvolvimento de sistemas. Atualmente estou cursando Análise e Desenvolvimento de Sitemas na São Paulo Tech School. Sou apaixonado por tecnologia e sempre buscando solucionar problemas que encontro através dela.
+Olá me chamo Carlos Tevez, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Horácio Augusto da Silveira, com o curso técnico em desenvolvimento de sistemas. Atualmente estou cursando Análise e Desenvolvimento de Sitemas na São Paulo Tech School e estagiando na Stefanini em desenvolvimento backend. Sou apaixonado por tecnologia e sempre buscando solucionar problemas que encontro através dela.
 
 <br>
 
